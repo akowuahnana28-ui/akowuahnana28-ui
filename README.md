@@ -5,7 +5,7 @@ I am currently studying Digital skills at Newham College and building a strong f
 
 I'm passionate about exploring how technology works, solving problems and discovering the many opportunities available across the tech industry.
 
-🌍Areas of Technology I am Exploring
+🌍Areas of Technology I am Exploring:
 💻Software Development and programming
 🔐Cybersecurity
 🤖Artificial Intelligence and Machine learning
@@ -16,20 +16,20 @@ I'm passionate about exploring how technology works, solving problems and discov
 
 I am keeping an open mind as I discover which areas match my strengths and interests.
 
-📚Currently Learning
+📚Currently Learning:
 Digital skills and computer fundamentals.
 Python and programming basics.
 Problem-solving and technical skills.
 Cybersecurity fundamentals.
 
-🎯My Goals
+🎯My Goals:
 Develop strong technical and problem-solving skills.
 Build practical projects and document my progress.
 Progress into higher-level computing education.
 Explore different technology career paths.
 Gain experience and work towards opportunities in the technology industry.
 
-🚀My Projects
+🚀My Projects:
 This portfolio will grow as I learn, experiment and build new things.
 
 More projects coming soon!
