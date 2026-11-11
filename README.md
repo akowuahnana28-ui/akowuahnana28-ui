@@ -8,43 +8,43 @@ I'm passionate about exploring how technology works, solving problems and discov
 
 🌍Areas of Technology I am Exploring:
 
--💻Software Development and programming
+- 💻Software Development and programming
 
--🔐Cybersecurity
+- 🔐Cybersecurity
 
--🤖Artificial Intelligence and Machine learning
+- 🤖Artificial Intelligence and Machine learning
 
--☁️Cloud computing
+- ☁️Cloud computing
 
--📊Data and Analytics
+- 📊Data and Analytics
 
--🌐Networking and IT Infrastructure
+- 🌐Networking and IT Infrastructure
 
--🛠️IT support and Systems
+- 🛠️IT support and Systems
 
 I am keeping an open mind as I discover which areas match my strengths and interests.
 
 📚Currently Learning:
 
--Digital skills and computer fundamentals.
+- Digital skills and computer fundamentals.
 
--Python and programming basics.
+- Python and programming basics.
 
--Problem-solving and technical skills.
+- Problem-solving and technical skills.
 
--Cybersecurity fundamentals.
+- Cybersecurity fundamentals.
 
 🎯My Goals:
 
--Develop strong technical and problem-solving skills.
+- Develop strong technical and problem-solving skills.
 
--Build practical projects and document my progress.
+- Build practical projects and document my progress.
 
--Progress into higher-level computing education.
+- Progress into higher-level computing education.
 
--Explore different technology career paths.
+- Explore different technology career paths.
 
--Gain experience and work towards opportunities in the technology industry.
+- Gain experience and work towards opportunities in the technology industry.
 
 🚀My Projects:
 This portfolio will grow as I learn, experiment and build new things.
